@@ -1,0 +1,13 @@
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\bin\Debug\netcoreapp3.1\Settimana5.exe
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\bin\Debug\netcoreapp3.1\Settimana5.deps.json
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\bin\Debug\netcoreapp3.1\Settimana5.runtimeconfig.json
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\bin\Debug\netcoreapp3.1\Settimana5.runtimeconfig.dev.json
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\bin\Debug\netcoreapp3.1\Settimana5.dll
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\bin\Debug\netcoreapp3.1\Settimana5.pdb
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\obj\Debug\netcoreapp3.1\Settimana5.csprojAssemblyReference.cache
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\obj\Debug\netcoreapp3.1\Settimana5.AssemblyInfoInputs.cache
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\obj\Debug\netcoreapp3.1\Settimana5.AssemblyInfo.cs
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\obj\Debug\netcoreapp3.1\Settimana5.csproj.CoreCompileInputs.cache
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\obj\Debug\netcoreapp3.1\Settimana5.dll
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\obj\Debug\netcoreapp3.1\Settimana5.pdb
+C:\Users\carlotta.colla\Documents\Progetti\Settimana5\Settimana5\obj\Debug\netcoreapp3.1\Settimana5.genruntimeconfig.cache
